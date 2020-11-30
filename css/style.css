@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+.clear{
+    clear: both;
+}
+.container{
+    width: 800px;
+    max-width: 100%;
+    margin: 0 auto;
+    
+}
+.form{
+    width: 400px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: burlywood;
+    padding: 10px;
+}
+input {
+    width: 100%;
+    padding: 15px 0 15px 10px;
+    margin-bottom: 10px;
+}
+.sub{
+    width: 100%;
+    padding: 15px 0 15px 0;
+    margin-bottom: 10px;
+}
+.col-2{
+    float: left;
+    width: 50%;
+    border: 1px solid black;
+    height: 440px;
+    padding-left: 10px;
+}
+.col-2 ol{
+    padding-left: 20px;
+}
+.result{
+    width: 400px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: burlywood;
+    padding: 10px 10px 100px 10px;
+    height: 460px;
+}
